@@ -194,7 +194,6 @@ IP-CIDR,64.23.132.171/32,PROXY,no-resolve
 IP-CIDR,143.198.200.27/32,PROXY,no-resolve
 IP-CIDR,159.89.204.203/32,PROXY,no-resolve
 #Random
-DOMAIN,twimg.com,PROXY
 DOMAIN-KEYWORD,vpn,PROXY
 
 # Telegram
