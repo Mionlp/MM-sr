@@ -101,6 +101,8 @@ DOMAIN-SUFFIX,x.jd.com,REJECT
 DOMAIN-SUFFIX,youmi.net,REJECT
 DOMAIN-SUFFIX,zhiziyun.com,REJECT
 DOMAIN-SUFFIX,data.vod.itc.cn,REJECT
+DOMAIN-SUFFIX,stage-mediate-events.applovin.com,REJECT
+
 
 # Youku/Tudou
 DOMAIN-SUFFIX,atm.youku.com,REJECT
