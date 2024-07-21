@@ -1,5 +1,5 @@
 #Reject
-
+DOMAIN,rt.applvn.com,REJECT
 # Block privacy tracker within apps
 DOMAIN-KEYWORD,umeng.co,REJECT
 DOMAIN-KEYWORD,flurry.co,REJECT
