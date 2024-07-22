@@ -47,13 +47,6 @@ DOMAIN-SUFFIX,stripe.com,DIRECT
 DOMAIN-SUFFIX,turn.livekit.cloud,DIRECT
 
 
-# Telegram
-DOMAIN-SUFFIX,t.me,DIRECT
-DOMAIN-SUFFIX,tdesktop.com,DIRECT
-DOMAIN-SUFFIX,telegra.ph,DIRECT
-DOMAIN-SUFFIX,telegram.me,DIRECT
-DOMAIN-SUFFIX,telegram.org,DIRECT
-DOMAIN-SUFFIX,telesco.pe,DIRECT
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com,DIRECT
 DOMAIN-SUFFIX,baidubcr.com,DIRECT
