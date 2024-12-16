@@ -126,7 +126,6 @@ DOMAIN,dsp.youdao.com,REJECT
 DOMAIN,g.163.com,REJECT
 DOMAIN,temp.163.com,REJECT
 DOMAIN-SUFFIX,stat.ws.126.net,REJECT
-DOMAIN-SUFFIX,analytics.126.net,DIRECT
 DOMAIN-SUFFIX,union.youdao.com,REJECT
 
 # Baidu/iqiyi
@@ -144,15 +143,13 @@ DOMAIN,mtj.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
 DOMAIN-SUFFIX,baidustatic.com,REJECT
 DOMAIN-SUFFIX,pos.baidu.com,REJECT
-DOMAIN-SUFFIX,baidu.com,DIRECT
 IP-CIDR,60.210.17.12/24,REJECT
 
 # Alibaba
 DOMAIN,acjs.aliyun.com,REJECT
 DOMAIN,adash.m.taobao.com,REJECT
 DOMAIN-SUFFIX,simaba.taobao.com,REJECT
-DOMAIN-SUFFIX,taobao.com,DIRECT
-DOMAIN-SUFFIX,alicdn.com,DIRECT
+
 
 # others
 DOMAIN,ads.mopub.com,REJECT
