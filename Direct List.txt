@@ -1,6 +1,6 @@
 #Direct
 
-
+DOMAIN-KEYWORD,viber,DIRECT
 DOMAIN-SUFFIX,netflix.com,DIRECT
 DOMAIN-KEYWORD,ooredoo,DIRECT
 DOMAIN-SUFFIX,nflxvideo.net,DIRECT
