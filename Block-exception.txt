@@ -1,3 +1,7 @@
 #Heesay
-telemetry.sdk.inmobi.com
-events.ads.vungle.com
+DOMAIN,telemetry.sdk.inmobi.com,DIRECT
+DOMAIN,events.ads.vungle.com,DIRECT
+DOMAIN-KEYWORD,irisgw,DIRECT
+DOMAIN-KEYWORD,Qiniu,DIRECT
+USER-AGENT,Blued*,DIRECT
+DOMAIN-KEYWORD,blued,DIRECT
