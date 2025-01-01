@@ -3,5 +3,7 @@ DOMAIN,telemetry.sdk.inmobi.com,DIRECT
 DOMAIN,events.ads.vungle.com,DIRECT
 DOMAIN-KEYWORD,irisgw,DIRECT
 DOMAIN-KEYWORD,Qiniu,DIRECT
-USER-AGENT,Blued*,DIRECT
 DOMAIN-KEYWORD,blued,DIRECT
+
+#Hearthstone
+DOMAIN,sdk.iad-03.braze.com,DIRECT
